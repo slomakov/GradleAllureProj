@@ -1,0 +1,91 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "TestClass1",
+    "children" : [ {
+      "name" : "testMethod1",
+      "uid" : "4a0571bbd45746c8",
+      "parentUid" : "a9c6b065eaabec31ba31611960c820ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631338474347,
+        "stop" : 1631338474359,
+        "duration" : 12
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "testMethod2",
+      "uid" : "e8572e23cbb9f4e0",
+      "parentUid" : "a9c6b065eaabec31ba31611960c820ed",
+      "status" : "failed",
+      "time" : {
+        "start" : 1631338474465,
+        "stop" : 1631338474472,
+        "duration" : 7
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "testMethod3",
+      "uid" : "bc47ddf06939aa6f",
+      "parentUid" : "a9c6b065eaabec31ba31611960c820ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631338474477,
+        "stop" : 1631338474477,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a9c6b065eaabec31ba31611960c820ed"
+  }, {
+    "name" : "TestClass2",
+    "children" : [ {
+      "name" : "testMethod1",
+      "uid" : "628434bc5eed71dc",
+      "parentUid" : "d59428af2b846f64e5918f1c825fa0df",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631338474480,
+        "stop" : 1631338474480,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "testMethod2",
+      "uid" : "ce0dca663ec69bec",
+      "parentUid" : "d59428af2b846f64e5918f1c825fa0df",
+      "status" : "failed",
+      "time" : {
+        "start" : 1631338474489,
+        "stop" : 1631338474498,
+        "duration" : 9
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "testMethod3",
+      "uid" : "852379c57fce353c",
+      "parentUid" : "d59428af2b846f64e5918f1c825fa0df",
+      "status" : "passed",
+      "time" : {
+        "start" : 1631338474499,
+        "stop" : 1631338474499,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "d59428af2b846f64e5918f1c825fa0df"
+  } ],
+  "name" : "packages"
+}

@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://slomakov.github.io/GradleAllureProj",
+  "buildOrder" : 21,
+  "buildName" : "GitHub Actions Run #1223693059",
+  "buildUrl" : "https://github.com/slomakov/GradleAllureProj/actions/runs/1223693059",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://slomakov.github.io/GradleAllureProj/21/"
+} ]
